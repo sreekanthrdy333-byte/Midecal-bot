@@ -1,0 +1,8 @@
+streamlit
+ultralytics
+google-generativeai
+pillow
+opencv-python-headless
+gtts
+streamlit-mic-recorder
+numpy
