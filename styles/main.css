@@ -1,0 +1,4 @@
+:root { --p: #00f2fe; --s: #4facfe; --b: #0a0b10; }
+.stApp { background: radial-gradient(circle at top right, #1a1b2e, #0a0b10); color: white; font-family: sans-serif; }
+section[data-testid="stSidebar"] { background: rgba(10, 11, 16, 0.8) !important; backdrop-filter: blur(10px); }
+.detection-card { background: rgba(0, 242, 254, 0.05); border-left: 4px solid var(--p); padding: 1rem; margin: 1rem 0; }
